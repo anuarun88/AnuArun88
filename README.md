@@ -68,12 +68,20 @@ I'm a Test Analyst with 2 years of experience in Manual testing and Test Automat
 
 <h3 align="centre">Interests and Hobbies</h3>
 
-</p><br>
+</p>
 
 <p align="left">
   <br>
-<a href="https:http://www.linkedin.com/in/anuarun88">
-  <img align="left" alt="🎨" width="22px"  />
+<a href="https://anuarun.me/paintings">
+  <img align="left" alt="🎨" width="50px"  />
+</a>  
+  
+  <a href="https://www.anuarun.me/bake">
+  <img align="left" alt="🧁" width="50px"  />
+</a>  
+  
+  <a href="https://anuarun.me/blog">
+  <img align="left" alt="💡" width="50px"  />
 </a>  
   
 </p><br>
