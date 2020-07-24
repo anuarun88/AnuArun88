@@ -25,8 +25,7 @@ I'm a Test Analyst with 2 years of experience in Manual testing and Test Automat
 
 <h3 align="centre"> 👨🏽‍💻Tech Stack </h3>
 
-</p><br>
-
+</p>
 <p align="left">
   <br>
 <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/Selenium.png"></code>&nbsp;&nbsp;
@@ -54,7 +53,7 @@ I'm a Test Analyst with 2 years of experience in Manual testing and Test Automat
 
 <h3 align="centre">Certifications </h3>
 
-</p><br>
+</p>
 
 <p align="left">
   <br>
@@ -62,8 +61,9 @@ I'm a Test Analyst with 2 years of experience in Manual testing and Test Automat
 <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/CTFLAT.jpg"></code>&nbsp;&nbsp;
   
   
-</p><br>
-
+</p>
+<br>
+<br>
 
 
 <h3 align="centre">Interests and Hobbies</h3>
