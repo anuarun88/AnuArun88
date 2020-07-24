@@ -52,7 +52,7 @@ I'm a Test Analyst with 2 years of experience in Manual testing and Test Automat
 <br />
 
 
-<h3 align="centre"> Certifications </h3>
+<h3 align="centre">Certifications </h3>
 
 </p><br>
 
@@ -64,6 +64,19 @@ I'm a Test Analyst with 2 years of experience in Manual testing and Test Automat
   
 </p><br>
 
+
+
+<h3 align="centre">Interests and Hobbies</h3>
+
+</p><br>
+
+<p align="left">
+  <br>
+<a href="https:http://www.linkedin.com/in/anuarun88">
+  <img align="left" alt="🎨" width="22px"  />
+</a>  
+  
+</p><br>
 
 
 
