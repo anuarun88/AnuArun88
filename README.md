@@ -72,17 +72,11 @@ I'm a Test Analyst with 2 years of experience in Manual testing and Test Automat
 
 <p align="left">
   <br>
-<a >
-align="left" alt="🎨" width="50px" src="https://anuarun.me/paintings" 
-</a>  
+  <code><img height="50" src="https://anuarun.me/paintings">🎨</code>&nbsp;&nbsp;
+  <code><img height="50" src="https://www.anuarun.me/bake">🧁</code>&nbsp;&nbsp;
+  <code><img height="50" src="https://anuarun.me/blog">💡</code>&nbsp;&nbsp;
   
-  <a >
-  align="left" alt="🧁" width="50px" src="https://www.anuarun.me/bake" 
-</a>  
-  
-  <a >
-align="left" alt="💡" width="50px" src="https://anuarun.me/blog" 
-</a>  
+
   
 </p><br>
 
