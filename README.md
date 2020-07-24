@@ -39,6 +39,26 @@ I'm a Test Analyst with 2 years of experience in Manual testing and Test Automat
 
 </p><br>
 
+<p align="center">
+  <br>
+<code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/Icons/Selenium.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/Icons/Cucumber.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/Icons/maven.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/Icons/TestNG.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/Icons/Postman.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src=""></code>&nbsp;&nbsp;
+<code><img height="50" src=""></code>&nbsp;&nbsp;
+  <code><img height="50" src=""></code>&nbsp;&nbsp;
+  <code><img height="50" src=""></code>&nbsp;&nbsp;
+  <code><img height="50" src=""></code>&nbsp;&nbsp;
+  <code><img height="50" src=""></code>&nbsp;&nbsp;
+  <code><img height="50" src=""></code>&nbsp;&nbsp;
+  <code><img height="50" src=""></code>&nbsp;&nbsp;
+  <code><img height="50" src=""></code>&nbsp;&nbsp;
+</p><br>
+
+
+
 
 
 
