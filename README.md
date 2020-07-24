@@ -31,18 +31,17 @@ I'm a Test Analyst with 2 years of experience in Manual testing and Test Automat
   <br>
 <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/Icons/Selenium.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/Icons/Cucumber.png"></code>&nbsp;&nbsp;
-  <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/Icons/Maven.jpeg"></code>&nbsp;&nbsp;
-  <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/Icons/TestNG.png"></code>&nbsp;&nbsp;
-  <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/Icons/Postman.png"></code>&nbsp;&nbsp;
-  <code><img height="50" src=""></code>&nbsp;&nbsp;
-<code><img height="50" src=""></code>&nbsp;&nbsp;
-  <code><img height="50" src=""></code>&nbsp;&nbsp;
-  <code><img height="50" src=""></code>&nbsp;&nbsp;
-  <code><img height="50" src=""></code>&nbsp;&nbsp;
-  <code><img height="50" src=""></code>&nbsp;&nbsp;
-  <code><img height="50" src=""></code>&nbsp;&nbsp;
-  <code><img height="50" src=""></code>&nbsp;&nbsp;
-  <code><img height="50" src=""></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/Maven.jpeg"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/TestNG.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/Postman.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/soapui.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/Jenkins.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/Jira.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/Java.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/HTML.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/CSS.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/mysql.png"></code>&nbsp;&nbsp;
+  
 </p><br>
 
 
