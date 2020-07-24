@@ -24,18 +24,6 @@ I'm a Test Analyst with 2 years of experience in Manual testing and Test Automat
 
 
 <h3 align="left"> 👨🏽‍💻Tech Stack </h3>
-<p align="center">
-  <br>
-
-<a href="https://icon-library.net/icon/selenium-icon-12.html" title="Selenium Icon #175334"><img height="50" src="https://icon-library.net//images/selenium-icon/selenium-icon-12.jpg" /></a>
-<a href="https://icon-library.net/icon/cucumber-icon-6.html" title="Cucumber Icon #381531"><img height="50" src="https://icon-library.net//images/cucumber-icon/cucumber-icon-6.jpg"  /></a>
-<a href="https://icon-library.net/icon/java-icon-images-4.html" title="Java Icon Images #201796"><img height="50" src="https://icon-library.net//images/java-icon-images/java-icon-images-4.jpg" /></a>
- <a >
-  <img align="left" alt="SElenium" width="22px" src="" />
- </a>
-
-
-
 
 </p><br>
 
@@ -43,7 +31,7 @@ I'm a Test Analyst with 2 years of experience in Manual testing and Test Automat
   <br>
 <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/Icons/Selenium.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/Icons/Cucumber.png"></code>&nbsp;&nbsp;
-  <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/Icons/maven.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/Icons/Maven.jpg"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/Icons/TestNG.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/Icons/Postman.png"></code>&nbsp;&nbsp;
   <code><img height="50" src=""></code>&nbsp;&nbsp;
