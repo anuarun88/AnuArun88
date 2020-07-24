@@ -26,8 +26,12 @@ I'm a Test Analyst with 2 years of experience in Manual testing and Test Automat
 <h3 align="center"> 👨🏽‍💻Tech Stack </h3>
 <p align="center">
   <br>
-<code><img height="50" src="https://icon-library.net/icon/selenium-icon-12.html"></code>&nbsp;&nbsp;
+
 <a href="https://icon-library.net/icon/selenium-icon-12.html" title="Selenium Icon #175334"><img height="50" src="https://icon-library.net//images/selenium-icon/selenium-icon-12.jpg" /></a>
+<a href="https://icon-library.net/icon/cucumber-icon-6.html" title="Cucumber Icon #381531"><img height="50" src="https://icon-library.net//images/cucumber-icon/cucumber-icon-6.jpg"  /></a>
+<a href="https://icon-library.net/icon/java-icon-images-4.html" title="Java Icon Images #201796"><img height="50" src="https://icon-library.net//images/java-icon-images/java-icon-images-4.jpg" /></a>
+
+
 
 
 </p><br>
