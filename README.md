@@ -17,4 +17,5 @@ I'm a Test Analyst with 2 years of experience in Manual testing and Test Automat
 
 <br />
 <br />
+<h3  align='center'> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anuarun88.anuarun88" /></h3><br>
 
