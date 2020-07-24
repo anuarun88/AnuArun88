@@ -27,7 +27,7 @@ I'm a Test Analyst with 2 years of experience in Manual testing and Test Automat
 
 </p><br>
 
-<p align="center">
+<p align="left">
   <br>
 <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/Selenium.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/Cucumber.png"></code>&nbsp;&nbsp;
@@ -56,10 +56,10 @@ I'm a Test Analyst with 2 years of experience in Manual testing and Test Automat
 
 </p><br>
 
-<p align="center">
+<p align="left">
   <br>
-<code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/CTFL.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/CTFLAT.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/CTFL.jpg"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/CTFLAT.jpg"></code>&nbsp;&nbsp;
   
   
 </p><br>
