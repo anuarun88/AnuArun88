@@ -27,7 +27,7 @@ I'm a Test Analyst with 2 years of experience in Manual testing and Test Automat
 <p align="center">
   <br>
 <code><img height="50" src="https://icon-library.net/icon/selenium-icon-12.html"></code>&nbsp;&nbsp;
-
+<a href="https://icon-library.net/icon/selenium-icon-12.html" title="Selenium Icon #175334"><img src="https://icon-library.net//images/selenium-icon/selenium-icon-12.jpg" width="350" /></a>
 
 
 </p><br>
