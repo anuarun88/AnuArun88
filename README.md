@@ -12,7 +12,7 @@
   <img align="left" alt="Squarespace" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/squarespace.svg" />
  </a>
  <a href="http:https://anuarun.netlify.app/">
-  <img align="left" alt="Netlify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/squarespace.svg" />
+  <img align="left" alt="Netlify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/netlify.svg" />
  </a>
  
 <br />
