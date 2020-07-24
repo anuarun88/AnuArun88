@@ -27,7 +27,7 @@ I'm a Test Analyst with 2 years of experience in Manual testing and Test Automat
 
 </p>
 <p align="left">
-  <br>
+
 <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/Selenium.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/Cucumber.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/Maven.jpeg"></code>&nbsp;&nbsp;
@@ -41,7 +41,7 @@ I'm a Test Analyst with 2 years of experience in Manual testing and Test Automat
   <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/CSS.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/mysql.png"></code>&nbsp;&nbsp;
   
-</p><br>
+</p>
 
 
 
@@ -53,37 +53,28 @@ I'm a Test Analyst with 2 years of experience in Manual testing and Test Automat
 
 <h3 align="centre">Certifications </h3>
 
-</p>
-
 <p align="left">
-  <br>
+
 <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/CTFL.jpg"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/CTFLAT.jpg"></code>&nbsp;&nbsp;
   
-  
 </p>
-<br>
-<br>
+<br />
+<br />
 
 
 <h3 align="centre">Interests and Hobbies</h3>
 
 </p>
-
 <p align="left">
-  <br>
+
   <a href="https://anuarun.me/paintings">🎨</a>
   <a href="https://www.anuarun.me/bake">🧁</a>
   <a href="https://anuarun.me/blog">💡</a>
- 
   
-
-  
-</p><br>
-
-
-
-
+</p>
+<br />
+<br />
 
 <h3  align='center'> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anuarun88.anuarun88" /></h3><br>
 
