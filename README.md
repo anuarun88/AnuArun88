@@ -21,5 +21,19 @@ I'm a Test Analyst with 2 years of experience in Manual testing and Test Automat
 
 <br />
 <br />
+
+
+<h3 align="center"> 👨🏽‍💻Tech Stack </h3>
+<p align="center">
+  <br>
+<code><img height="50" src="https://icon-library.net/icon/selenium-icon-12.html"></code>&nbsp;&nbsp;
+
+
+
+</p><br>
+
+
+
+
 <h3  align='center'> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anuarun88.anuarun88" /></h3><br>
 
