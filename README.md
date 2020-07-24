@@ -17,7 +17,7 @@
  
 <br />
 <br />
-I'm a Test Analyst with 2 years of experience in Manual testing and Test Automation. I love QA. The process, getting into the details. A career in software testing is very challenging but satisfying, requiring you to solve the problem, manage the risk, and improve quality. Software testing is about improving the quality, by looking at the product from different angles, with different perspectives, and testing it with different expectations. 
+I'm a Test Analyst with 2 years of experience in Manual testing and Test Automation. <br/>I love QA. The process, getting into the details.<br/> A career in software testing is very challenging but satisfying, requiring you to solve the problem, manage the risk, and improve quality.<br/>Software testing is all about improving the quality, by looking at the product from different angles, with different perspectives, and testing it with different expectations. 
 
 <br />
 <br />
