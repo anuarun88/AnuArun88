@@ -23,14 +23,14 @@ I'm a Test Analyst with 2 years of experience in Manual testing and Test Automat
 <br />
 
 
-<h3 align="left"> 👨🏽‍💻Tech Stack </h3>
+<h3 align="centre"> 👨🏽‍💻Tech Stack </h3>
 
 </p><br>
 
 <p align="center">
   <br>
-<code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/Icons/Selenium.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/Icons/Cucumber.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/Selenium.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/Cucumber.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/Maven.jpeg"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/TestNG.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/Postman.png"></code>&nbsp;&nbsp;
@@ -41,6 +41,26 @@ I'm a Test Analyst with 2 years of experience in Manual testing and Test Automat
   <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/HTML.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/CSS.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/mysql.png"></code>&nbsp;&nbsp;
+  
+</p><br>
+
+
+
+
+
+<br />
+<br />
+
+
+<h3 align="centre"> Certifications </h3>
+
+</p><br>
+
+<p align="center">
+  <br>
+<code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/CTFL.png"></code>&nbsp;&nbsp;
+<code><img height="50" src="https://github.com/anuarun88/AnuArun88/blob/master/icons/CTFLAT.png"></code>&nbsp;&nbsp;
+  
   
 </p><br>
 
