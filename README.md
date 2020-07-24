@@ -2,7 +2,7 @@
 ![Image](https://github.com/anuarun88/AnuArun88/blob/master/image.jpg)
 ### Hi there, I'm Anu 👋
 
-<a href="https:http://www.linkedin.com/in/anuarun88">
+<a href="http://www.linkedin.com/in/anuarun88">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/anuarun88">
@@ -11,7 +11,7 @@
  <a href="http://anuarun.me/">
   <img align="left" alt="Squarespace" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/squarespace.svg" />
  </a>
- <a href="http:https://anuarun.netlify.app/">
+ <a href="https://anuarun.netlify.app/">
   <img align="left" alt="Netlify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/netlify.svg" />
  </a>
  
