@@ -11,13 +11,11 @@
  <a href="http://anuarun.me/">
   <img align="left" alt="Squarespace" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/squarespace.svg" />
  </a>
- <a href="https://anuarun.netlify.app/">
-  <img align="left" alt="Netlify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/netlify.svg" />
- </a>
+
  
 <br />
 <br />
-I'm a Test Analyst with 2 years of experience in Manual testing and Test Automation. <br/>I love QA. The process, getting into the details.<br/> A career in software testing is very challenging but satisfying, requiring you to solve the problem, manage the risk, and improve quality.<br/>Software testing is all about improving the quality, by looking at the product from different angles, with different perspectives, and testing it with different expectations. 
+I'm a Test Analyst with 2 years of experience in Manual testing and Test Automation. 
 
 <br />
 <br />
@@ -62,12 +60,9 @@ Bachelor of Technology in Information Technology, Mahatma Gandhi University, Ind
 
 <h3 align="centre">Interests and Hobbies</h3>
 </p>
-<p align="left">
-   <a href="https://anuarun.me/blog">💡</a>
-  <a href="https://anuarun.me/paintings">🎨</a>
-  <a href="https://www.anuarun.me/bake">🧁</a>
+
  
- </p>
+
 <br />
 <br />
 
