@@ -12,7 +12,9 @@
   <img align="left" alt="Squarespace" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/squarespace.svg" />
  </a>
 
- 
+  <a href="https://anuarun.netlify.app/">
+  <img align="left" alt="Netlify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/netlify.svg" />
+ </a>
 <br />
 <br />
 I'm a Test Analyst with 2 years of experience in Manual testing and Test Automation. 
