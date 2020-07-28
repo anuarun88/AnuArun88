@@ -60,7 +60,7 @@ Bachelor of Technology in Information Technology, Mahatma Gandhi University, Ind
 <br />
 
 
-<h3 align="centre">Interests and Hobbies</h3>
+
 </p>
 
  
